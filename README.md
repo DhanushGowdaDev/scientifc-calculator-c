@@ -8,6 +8,7 @@ This is a simple **Scientific Calculator program written in C** using a menu-dri
 - Multiplication (×)
 - Division (/)
 - Modulus (%)
+- power(a^b)
 - Sine function (sin x)
 - Factorial (n!)
 
